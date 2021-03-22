@@ -1,0 +1,14 @@
+gitdiv.card {
+  background-color: #fff0ee;
+  padding: 1.5rem 1rem;
+}
+
+h5.card-title {
+  text-transform: uppercase;
+  margin-bottom: 1rem;
+}
+
+a.btn-primary {
+  background-color: #b10849;
+  border: #b10849;
+}
